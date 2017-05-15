@@ -1,2 +1,2 @@
 # hello-world
-It is the beginning.
+Just another repository.
